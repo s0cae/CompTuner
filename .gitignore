@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+settings/
+tuning_log.csv
+tuning_log_matlab.csv
+reference_matlab_code/**/tuning_log_matlab.csv
+00/
